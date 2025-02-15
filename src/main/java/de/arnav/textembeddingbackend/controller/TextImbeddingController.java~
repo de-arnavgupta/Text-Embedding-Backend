@@ -1,0 +1,4 @@
+package de.arnav.textembeddingbackend.controller.implementation;
+
+public interface TextImbeddingController {
+}

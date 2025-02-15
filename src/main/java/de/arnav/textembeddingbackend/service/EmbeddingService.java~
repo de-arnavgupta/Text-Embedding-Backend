@@ -1,0 +1,6 @@
+package de.arnav.textembeddingbackend.service;
+
+public interface EmbeddingService
+{
+    Map<Strng,Object> embed;
+}
